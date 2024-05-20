@@ -29,9 +29,11 @@ In view of that and understanding there is obvious decline in their income, cust
 
 ***This study helped the business to re-jig value offering,  marketing activities thereby delivering 9% growth of customer base, 12% overall sales growth in 2023/2024.***
 
-### 5. Recommendation Model
+## 5. Recommendation Model
 
 As our product portfolio continued to grow due to need for us to offer hyper-personalized service to our customers, it became necessary to recommend certain product propositions to target customers only.  As customer expectations for tailored interactions grow, generic recommendations fail to capture their interest or meet their needs. Challenge was to identify the right customers for a given product or service.
 I developed a recommender model for one of our a product category that was its infancy stages - to predict and suggest propositions that were most likely to appeal to each individual. This concept not only enhances the customer experience by making it more relevant and engaging but also helps in efficiently navigating large catalogs, thereby reducing choice overload and decision fatigue.
 
 ***The model has managed to offer highly personalized purchase experiences, which has led to increased engagement (by 7%) and higher conversion rates (additional 11%). The model's ability to suggest relevant products has boosted cross-selling and upselling opportunities, driving 19% incremental revenue.***
+
+
