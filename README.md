@@ -1,11 +1,16 @@
 # List of my Projects
 ## 1. Marketing Mix Model
    
-  A sizeable amount of our organization's OPEX is allocated to marketing. Marketers generally agree that there is an investment level that will yield the best results in achieving the goal. Consequently, investing   below that threshold results in lower returns, while investing above it leads to both the achievement of the goal and the loss of some capital. We aim to achieve required marketing objective efficiently -  
-  The goal of the marketing mix model is to ascertain the ideal amount of investment necessary for successful marketing. From marketing mix model, the project also
+  A sizeable amount of our organization's OPEX is allocated to marketing. Marketers generally agree that there is an investment level that will yield the best results in achieving the goal. Consequently, investing   below that threshold results in lower returns, while investing above it leads to both the achievement of the goal and the loss of some capital. Organization's aim is to achieve marketing objective efficiently and effectively.  
+  
+The goal of the marketing mix model is to ascertain the ideal amount of investment necessary for successful marketing. From marketing mix model, the project also
+
     - Gives an overview of the net effect of past marketing decisions
-    - Provides a model to evaluate outcome of various investment decisions; what-if scenario analysis
+    
+    - Provides a model to evaluate outcome of various investment decisions; The "What-ifs scenario analysis"
+    
     - Gives the most optimal investment for a given marketing initiative
+
   
   ***The overall outcome of this project was realized 22% saving on marketing budget with same amount of delivery*** 
 
