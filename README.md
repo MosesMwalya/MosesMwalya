@@ -1,4 +1,4 @@
-# List of my Projects
+# Sample of some of my Projects
 ## 1. Marketing Mix Model
    
 A sizeable amount of our organization's OPEX is allocated to marketing. Marketers generally agree that there is an investment level that will yield the best results in achieving the goal. Consequently, investing   below that threshold results in lower returns, while investing above it leads to both the achievement of the goal and the loss of some capital. Organization's aim is to achieve marketing objective efficiently and effectively.  
@@ -73,3 +73,14 @@ It therefore became necessary to develop a simple tool to help microfinance dete
 
 [A detailed reasoning of the study is presented herein](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/README.md)
 
+
+## Contact details
+
+Thank you for visiting my portfolio! If you have any questions, comments, or would like to discuss potential collaborations, please feel free to reach out. I am always open to connecting with fellow professionals and enthusiasts.
+
+You can contact me via the following methods:
+
+Email: moses.mutua@gmail.com
+LinkedIn: [mosesmutua].(https://www.linkedin.com/in/mosesmutua/)
+GitHub: [MosesMwalya](https://github.com/MosesMwalya/)
+I look forward to hearing from you!
