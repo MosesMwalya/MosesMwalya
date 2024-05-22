@@ -1,7 +1,9 @@
 # List of my Projects
 ## 1. Marketing Mix Model
    
-  A sizeable amount of our organization's OPEX is allocated to marketing. Marketers generally agree that there is an investment level that will yield the best results in achieving the goal. Consequently, investing   below that threshold results in lower returns, while investing above it leads to both the achievement of the goal and the loss of some capital. Organization's aim is to achieve marketing objective efficiently and effectively.  
+A sizeable amount of our organization's OPEX is allocated to marketing. Marketers generally agree that there is an investment level that will yield the best results in achieving the goal. Consequently, investing   below that threshold results in lower returns, while investing above it leads to both the achievement of the goal and the loss of some capital. Organization's aim is to achieve marketing objective efficiently and effectively.  
+
+![Alt text](https://github.com/MosesMwalya/Marketing_Mix_Model/blob/main/images/MMM.png)
   
 The goal of the marketing mix model is to ascertain the ideal amount of investment necessary for successful marketing. From marketing mix model, the project also
 
