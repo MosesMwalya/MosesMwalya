@@ -62,3 +62,14 @@ I developed a recommender model for one of our a product category that was its i
 ***The model has managed to offer highly personalized purchase experiences, which has led to increased engagement (by 7%) and higher conversion rates (additional 11%). The model's ability to suggest relevant products has boosted cross-selling and upselling opportunities, driving 19% incremental revenue.***
 
 
+## 6. Mobile Loans credit scoring
+There has been a rapid growth of fintech in the past, with the majority of them playing in the credit space. This has provided benefits to the ecosystem in two ways, first, the borrowers have easy access to funds to enable them to actualize their dreams. Secondly, the investors have been extended an opportunity to invest their money for a small return in the society in which they live. That notwithstanding, there exists a real risk of some borrowers failing to pay back. 
+
+![Alt text](https://github.com/MosesMwalya/recommender_model/blob/main/image/recommender.png)
+
+It therefore became necessary to develop a simple tool to help microfinance determine the credit score of each borrower; that way, borrowers would be advanced credit commensurate to what they are able to pay. 
+
+***Ultimately, the usage of this tool and other similar ones in the market has re-ignated the market with central banks in the region reporting about 21% growth of mobile loans.***
+
+[A detailed reasoning of the study is presented herein](https://github.com/MosesMwalya/conjoint/blob/main/README.md)
+
