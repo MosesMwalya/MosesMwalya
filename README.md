@@ -31,7 +31,11 @@ The findings helped business prioritize product features that deliver the highes
 
 ## 3. Customer Segmentation
 
-In today's highly competitive market, understanding our customers' unique needs and behaviors remains crucial. Customer segmentation project was to help business understand customers better - making it possible to offer personalized experience, create relevant propositions as well as deliver efficient marketing. Further, we determined that it was going to empower us to connect with our customers on a deeper level, ensuring we meet their needs more effectively and create lasting value for them and our business.
+In today's highly competitive market, understanding our customers' unique needs and behaviors remains crucial. This unique view of customers presents businesses with great opportunity to serve their customers better thereby improving their connection and experience.
+
+![Alt text](https://github.com/MosesMwalya/CustomerSegmentation/blob/main/images/segmentationSummary.png)
+
+It was therefore necessary to undertake **Customer segmentation**  - the outcome was to help our business to understand our customers better - making it possible to offer personalized experience, create relevant propositions as well as deliver efficient marketing. Further, we determined that it was going to empower us to connect with our customers on a deeper level, ensuring we meet their needs more effectively and create lasting value for them and our business. We understood that this task was going to give huge competitve advantage.
 
 ***Through this project, we not only improved our customer experience but also drove business growth by aligning our strategies more closely with customer needs - this saw reduction of churn rate by 8% in 2023/2024 compared to previous year.***
 
