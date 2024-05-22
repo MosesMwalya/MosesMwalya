@@ -23,9 +23,9 @@ Understanding that customers are faced with many product choices when making pur
 Faced with that challenge, I resolved to undertake conjoint analysis - a statistical technique pivotal in decoding what drives purchasing decisions. By presenting customers with various product options and analyzing their choices, I identified the specific attributes they value most. This method allowed business to simulate real-world decision-making processes, revealing deep insights into customer priorities.
 The findings helped business prioritize product features that deliver the highest value, enabling us to tailor our offerings to meet customer needs more effectively. 
 
-[For a detailed reasoning of the conjoint study](https://github.com/MosesMwalya/conjoint/blob/main/README.md)
-
 ***This data-driven approach not only enhanced our product development process but also fine-tuned our marketing strategies, driving customer satisfaction and 12% business growth in 2023/2024***
+
+[A detailed reasoning of the study is presented herein](https://github.com/MosesMwalya/conjoint/blob/main/README.md)
 
 ## 3. Customer Segmentation
 
