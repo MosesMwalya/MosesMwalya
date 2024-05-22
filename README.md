@@ -72,7 +72,9 @@ It therefore became necessary to develop a simple tool to help microfinance dete
 ***Ultimately, the usage of this tool and other similar ones in the market has re-ignated the market with central banks in the region reporting about 21% growth of mobile loans.***
 
 [A detailed reasoning of the study is presented herein](https://github.com/MosesMwalya/bank_credit_scoring/blob/main/README.md)
+<b>
 
+</b>
 
 ## Contact details
 
