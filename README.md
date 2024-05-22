@@ -81,7 +81,7 @@ Thank you for visiting my portfolio! If you have any questions, comments, or wou
 You can contact me via the following methods:
 
 - Email: moses.mutua@gmail.com
-- LinkedIn: [mosesmutua].(https://www.linkedin.com/in/mosesmutua/)
+- LinkedIn: https://www.linkedin.com/in/mosesmutua/
 - GitHub: [MosesMwalya](https://github.com/MosesMwalya/)
 
 I look forward to hearing from you!
