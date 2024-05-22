@@ -37,8 +37,13 @@ In today's highly competitive market, understanding our customers' unique needs 
 
 ## 4. Value Driver Modelling
 
-Since advent of Covid, our customers continue to face difficult economic environment aggrevated by impacts of global warming, geopolitical interests as well as unfavourable regulatory framework governments have implemented in response to growing challenges.
-In view of that and understanding there is obvious decline in their income, customers have resorted to trade-offs for survival as a coping mechanism; they only purchase brands, products or services they consider to offer value. From previous studies, we had established that Value is more than Price. To guide the business in making right decision touching on value, I undertook a *VALUE Driver Modelling* study to understand deeper meaning of customer value, factors that influence value and their importance in the whole value ecosystem.
+Since advent of Covid, our customers continue to face difficult economic environment aggrevated by impacts of global warming, geopolitical interests as well as unfavourable regulatory framework governments have implemented in response to growing challenges. In view of that and understanding there is obvious decline in their income, customers have resorted to trade-offs for survival as a coping mechanism; they only purchase brands, products or services they consider to offer value. From previous studies, we had established that Value is more than Price. 
+
+![Alt text](https://github.com/MosesMwalya/Value_Diagnostic/blob/main/images/Value.png)
+
+It therefore becomes necessary to understand the meaning and drivers of ***VALUE*** to customers - sort of, which 'nats and bolts' we need to loosen or tighten for us to be able to achieve our objective.
+
+Understanding that my organization is a data driven business, I undertook a *VALUE Driver Modelling* to close that gap.
 
 ***This study helped the business to re-jig value offering,  marketing activities thereby delivering 9% growth of customer base, 12% overall sales growth in 2023/2024.***
 
