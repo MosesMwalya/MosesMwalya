@@ -41,9 +41,9 @@ Since advent of Covid, our customers continue to face difficult economic environ
 
 ![Alt text](https://github.com/MosesMwalya/Value_Diagnostic/blob/main/images/Value.png)
 
-It therefore becomes necessary to understand the meaning and drivers of ***VALUE*** to customers - sort of, which 'nats and bolts' we need to loosen or tighten for us to be able to achieve our objective.
+It therefore became necessary to understand the deeper meaning of ***VALUE***, factors influencing it together with their corresponding weight in the mind of customers - sort of, understanding the 'nuts and bolts' that one requires to either loosen and/or tighten in order to achieve our overall business goal.
 
-Understanding that my organization is a data driven business, I undertook a *VALUE Driver Modelling* to close that gap.
+Understanding that my organization is a data driven business, I undertook a ***VALUE Driver Modelling** to close that gap.
 
 ***This study helped the business to re-jig value offering,  marketing activities thereby delivering 9% growth of customer base, 12% overall sales growth in 2023/2024.***
 
