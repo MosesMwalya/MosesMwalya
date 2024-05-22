@@ -15,6 +15,7 @@ The goal of the marketing mix model is to ascertain the ideal amount of investme
   ***The overall outcome of this project was realized 22% saving on marketing budget with same amount of delivery*** 
 
 ## 2. Conjoint Analysis
+![Alt text](https://github.com/MosesMwalya/conjoint/blob/main/conjoint.png)
 Understanding that customers are faced with many product choices when making purchase decisions, we wanted to elevate our position to ensure customer would most likely choose our products any time they are faced with purchase decision.
 Faced with that challenge, I resolved to undertake conjoint analysis - a statistical technique pivotal in decoding what drives purchasing decisions. By presenting customers with various product options and analyzing their choices, I identified the specific attributes they value most. This method allowed business to simulate real-world decision-making processes, revealing deep insights into customer priorities.
 The findings helped business prioritize product features that deliver the highest value, enabling us to tailor our offerings to meet customer needs more effectively. 
